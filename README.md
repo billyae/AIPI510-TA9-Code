@@ -1,4 +1,7 @@
 ### Decision Tree Classification Demo      
+
+A decision tree classification demo using streamlit as frontend and Flask as backend.   
+It can be deployed to Google Kubernetes Engine with dockerfile. Before you deploy the frontend, you should change the API_URL in the ML_demo_frontend.py.
     
 Author: TeamName ( Zihao Yang, Tony Wang)       
 
